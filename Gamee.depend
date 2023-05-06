@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1683284479 source:c:\users\admin\desktop\game_sdl\gamee\renderwindow.cpp
+	"renderWindow.h"
+	"Menu.h"
+	"BaseObject.h"
+
+1681452615 source:c:\users\admin\desktop\game_sdl\gamee\baseobject.cpp
+	"BaseObject.h"
+
+1682860299 c:\users\admin\desktop\game_sdl\gamee\baseobject.h
+	<bits/stdc++.h>
+	"renderWindow.h"
+
+1683224804 c:\users\admin\desktop\game_sdl\gamee\renderwindow.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"BaseObject.h"
+
+1683284348 source:c:\users\admin\desktop\game_sdl\gamee\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	"BaseObject.h"
+	"Game_map.h"
+	"MainObject.h"
+	"Timer.h"
+	"Threartttt.h"
+	"Bullet.h"
+	"ThreartPart2.h"
+	"Menu.h"
+
+1683214596 source:c:\users\admin\desktop\game_sdl\gamee\game_map.cpp
+	"game_map.h"
+	<bits/stdc++.h>
+
+1682181849 c:\users\admin\desktop\game_sdl\gamee\game_map.h
+	"RenderWindow.h"
+	"BaseObject.h"
+
+1683214733 source:c:\users\admin\desktop\game_sdl\gamee\mainobject.cpp
+	"MainObject.h"
+	"renderWindow.h"
+
+1683182624 c:\users\admin\desktop\game_sdl\gamee\mainobject.h
+	<vector>
+	"renderWindow.h"
+	"BaseObject.h"
+	"Bullet.h"
+	<bits/stdc++.h>
+
+1681452343 c:\users\admin\desktop\game_sdl\gamee\timer.h
+	<SDL.h>
+
+1681452295 source:c:\users\admin\desktop\game_sdl\gamee\timer.cpp
+	"Timer.h"
+
+1682865037 c:\users\admin\desktop\game_sdl\gamee\threartttt.h
+	"BaseObject.h"
+
+1682858771 source:c:\users\admin\desktop\game_sdl\gamee\threartttt.cpp
+	"Threartttt.h"
+
+1682595326 c:\users\admin\desktop\game_sdl\gamee\bullet.h
+	"BaseObject.h"
+
+1682850133 source:c:\users\admin\desktop\game_sdl\gamee\bullet.cpp
+	"Bullet.h"
+	"BaseObject.h"
+
+1683298361 source:c:\users\admin\desktop\game_sdl\gamee\threartpart2.cpp
+	"ThreartPart2.h"
+
+1682181198 source:c:\users\admin\desktop\game_sdl\gamee\gameplay.cpp
+
+1683193079 c:\users\admin\desktop\game_sdl\gamee\threartpart2.h
+	"BaseObject.h"
+	"Bullet.h"
+
+1683263037 source:c:\users\admin\desktop\game_sdl\gamee\menu.cpp
+	"Menu.h"
+	"BaseObject.h"
+
+1683047003 c:\users\admin\desktop\game_sdl\gamee\menu.h
+	"BaseObject.h"
+
