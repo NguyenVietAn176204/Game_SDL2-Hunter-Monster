@@ -44,8 +44,14 @@ Cuối cùng mở project game và vào thư mục Debug click vào file Gamee.e
 
 Hunter: sử dụng súng
 
-<img src="https://user-images.githubusercontent.com/124802640/236631340-f288305e-e658-474e-a70a-27886af857a0.png
-">
+
+
+
+![alt tag]('https://github.com/NguyenVietAn176204/Game_SDL2-Hunter-Monster/blob/main/ReadmePreview/PlayerPreview.png')
+
+
+
+
 
 
 
