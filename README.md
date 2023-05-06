@@ -44,10 +44,13 @@ Cuối cùng mở project game và vào thư mục Debug click vào file Gamee.e
 
 Hunter: sử dụng súng
 
+![alt](https://github.com/NguyenVietAn176204/Game_SDL2-Hunter-Monster/blob/main/ReadmePreview/PlayerPreview.png)
 
++ 3 loại quái vật :
 
+Ghost Monster : Đuổi theo vị trí của Hunter mọi lúc mọi nơi
 
-![alt tag]('https://github.com/NguyenVietAn176204/Game_SDL2-Hunter-Monster/blob/main/ReadmePreview/PlayerPreview.png')
+![alt](https://github.com/NguyenVietAn176204/Game_SDL2-Hunter-Monster/blob/main/ReadmePreview/PlayerPreview.png)
 
 
 
